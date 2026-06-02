@@ -1,0 +1,6 @@
+interface:
+  display_name: "Zotero Bulk Language"
+  short_description: "Batch-edit Zotero item language fields"
+  default_prompt: "Use $zotero-bulk-language to set selected Zotero library items to the desired language code."
+policy:
+  allow_implicit_invocation: true
